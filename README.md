@@ -22,7 +22,7 @@ Os desafios do Frontend Mentor ajudam a melhorar as habilidades de desenvolvimen
 
 ### Links 
 
-- [Solução] ()
+- [Solução] (https://brunanunesbarros.github.io/Order-summary-card/)
 
 ## Meu processo
 
